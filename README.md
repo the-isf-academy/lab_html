@@ -15,30 +15,37 @@ In this lab, you will write your first web page in `HTML`.
 💻 **Use the recipe information in `cake_recipe.txt` to create  web page for the recipe in `index.html`.** Be sure to include all of the key information to make the cake, but feel free to rearrange it or change the wording.
 
 Be sure to include at least 1 instance of each element:
+- div
 - heading (h2, h3, or h4,)
-- image
 - paragraph text
+- image
+- link
 - italic text
 - bold text
-- link
 - ordered bullet points 
 - unordered bullet points 
 
-You can find information on HTML elements/tags [HERE](https://www.w3schools.com/html/).å
+You can find information on HTML elements/tags [HERE](https://www.w3schools.com/html/).
 
 --- 
 
-## Extension: CSS 
+### Extension: CSS 
 
-💻 **Add custom styling to your page by editing `styles.css`.** You can find information on `CSS` styling [HERE](https://www.w3schools.com/css/default.asp).
+💻 **Add custom styling to your page by editing `styles.css`.** 
+- [css styling for text color](https://www.w3schools.com/css/css_text.asp)
+- [css styling for fonts](https://www.w3schools.com/css/css_font.asp)
+- [css styling for links](https://www.w3schools.com/css/css_link.asp)
+- [css styling for backgrounds](https://www.w3schools.com/css/css_background.asp)
+
+💭 **A few ideas...**
 - can you change the color of just the sub-headings? just the paragraph text? 
-- can åyou change the color of the link when you hover of it? 
+- can you change the color of the link when you hover of it? 
 - can you use multiple fonts throughout the page?
-- can you put the image next to the description text? 
+- can you add background colors to different sections of the page?
 
 ---
 
-## Extension: CSS Layout 
+### Extension: CSS Layout 
 
 CSS can be also be used to apply layout designs to your webpage. 
 
