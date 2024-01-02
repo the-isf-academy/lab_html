@@ -6,7 +6,7 @@ In this lab, you will write your first web page in `HTML`.
 💻 **Open `index.html` in your web browser:** `open index.html`.
 > `index.html` is the most common name for the start page of a web site.
 
-💻 **Open the `lab_html` folder in your code editor**: `atom .`. You will see the following files:
+💻 **Open the `lab_html` folder in your code editor**: `code .`. You will see the following files:
 - `index.html` - you will write `HTML` here
 - `assets/blackout_cake.jpeg` - add this photo to your page
 - `cake_recipe.txt` - recipe content information
