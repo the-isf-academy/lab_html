@@ -5,3 +5,27 @@ html{
     margin: 0 20px;
 }
 
+
+
+.flexbox-grid{
+    display:flex;
+    gap: 50px;
+    margin-bottom: 50px;
+    
+ 
+}
+
+.column{
+    padding: 0px 20px;
+    /* flex: 1; */
+}
+
+#col-1{
+    flex-grow: 1; 
+}
+
+h1{
+    /* text-align: center; */
+    text-decoration: underline;
+    padding: 0px 20px;
+}
